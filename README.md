@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Suraj Meena</h1>
-<img src="https://png.pngtree.com/png-vector/20240320/ourmid/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png" alt="Girl in a jacket" width="300" height="300" style="text-align: center;">
+<div style="text-align: center;">
+  <img src="https://png.pngtree.com/png-vector/20240320/ourmid/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png" alt="Coding Guy" width="300" height="300">
+</div>
+
 <h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-2062" alt="suraj-2062" /></a> </p>
